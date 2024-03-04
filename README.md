@@ -9,4 +9,4 @@ If this works, the next word should be in *italics* and this one should be **bol
 
 Here is a link to my linkedin
 
-[linkedin]([https://www.linkedin.com/in/jinlong-shen-846727276/])
+[linkedin](https://www.linkedin.com/in/jinlong-shen-846727276/)
