@@ -12,5 +12,6 @@ Here is a link to my linkedin
 [linkedin](https://www.linkedin.com/in/jinlong-shen-846727276/)
 
 Stats papers I have done in the past:
-- Stats 10x
-- Stats 20x
+
+1. Stats 10x
+2. Stats 20x
